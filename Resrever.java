@@ -1,5 +1,5 @@
 /*
-Joshua Weiner - OscarMayerWeinerSong
+Joshua Weiner, Derek Song - OscarMayerWeinerSong
 APCS2 pd08
 HW07 --  A Man, A Plan, A Canal: Panama!
 2018 - 02 - 13
